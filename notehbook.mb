@@ -75,12 +75,12 @@
 | import scanner | gives access to scanner class, required at top | import java.until.scanner; | | |
 | print  line statment | primt what's in the parenthesis, adds line after | system.out.printin(" "); | | |
 | print statement | prints the content in the parenthesis | system.out.print(" "); | | |
-| 
-
-
-
-
-
+| input next | reads in a string from the user | input.nextLine(); | | | 
+| input nextInt | reads in an int from the user | input.nextInt(); | | |
+| input nextDouble | reads in a double (decimal) from the user | input.nextDouble(); | | |
+| input nextBoolean | reads in a boolean (true/false) from the user |input.nextBoolean(); | | |
+| Arithmetic operators |  -     *     /      %  (modulus, returns the reainder from dividing) |  |  |  |
+| Compound operators (applies the result to the variable) | +=      -=      *=       /=      %=    ++ (adds  1)
 
 
 
