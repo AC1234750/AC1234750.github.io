@@ -99,7 +99,17 @@
 
 
 
+| index | location value of each character in a string or list, starting at 0 | "hello" index of 'e' is 1 | | | 
+| substring | Part of a larger strinf | "llo" is a subString pf "hello" | | | 
+| | | | | |
+| | | | | | 
+| | | | | |
 
+
+
+[String note].(#string-notes).
+### String notes
+  - strings have indces (plural for index,) which start at 0 "hello" has indices 0 (H)
 
 
 
